@@ -22,7 +22,7 @@ export default class AnthropicProvider extends BaseProvider {
       label: 'Claude 3.5 Sonnet',
       provider: 'Anthropic',
       maxTokenAllowed: 200000,
-      maxCompletionTokens: 128000,
+      maxCompletionTokens: 8692,
     },
 
     // Claude 3 Haiku: 200k context, fastest and most cost-effective
@@ -31,7 +31,7 @@ export default class AnthropicProvider extends BaseProvider {
       label: 'Claude 3 Haiku',
       provider: 'Anthropic',
       maxTokenAllowed: 200000,
-      maxCompletionTokens: 128000,
+      maxCompletionTokens: 8692,
     },
 
     // Claude Opus 4: 200k context, 32k output limit (latest flagship model)
@@ -40,7 +40,34 @@ export default class AnthropicProvider extends BaseProvider {
       label: 'Claude 4 Opus',
       provider: 'Anthropic',
       maxTokenAllowed: 200000,
-      maxCompletionTokens: 32000,
+      maxCompletionTokens: 8692,
+    },
+
+    // Claude Sonnet 4.5: 200k context, 128k output limit
+    {
+      name: 'claude-sonnet-4-5-20250929',
+      label: 'Claude 4.5 Sonnet',
+      provider: 'Anthropic',
+      maxTokenAllowed: 200000,
+      maxCompletionTokens: 8692,
+    },
+
+    // Claude Sonnet 4: 200k context, 64k output limit
+    {
+      name: 'claude-sonnet-4-20250514',
+      label: 'Claude 4 Sonnet',
+      provider: 'Anthropic',
+      maxTokenAllowed: 200000,
+      maxCompletionTokens: 8692,
+    },
+
+    // Claude Haiku 4.5: 200k context, 128k output limit
+    {
+      name: 'claude-haiku-4-5-20251001',
+      label: 'Claude 4.5 Haiku',
+      provider: 'Anthropic',
+      maxTokenAllowed: 200000,
+      maxCompletionTokens: 8692,
     },
   ];
 
@@ -61,7 +88,7 @@ export default class AnthropicProvider extends BaseProvider {
       throw `Missing Api Key configuration for ${this.name} provider`;
     }
 
-    const response = await fetch(`https://api.anthropic.com/v1/models`, {
+    const response = await fetch(`https://ai.megallm.io/models`, {
       headers: {
         'x-api-key': `${apiKey}`,
         'anthropic-version': '2023-06-01',
@@ -127,6 +154,7 @@ export default class AnthropicProvider extends BaseProvider {
     });
     const anthropic = createAnthropic({
       apiKey,
+      baseURL: 'https://ai.megallm.io',
       headers: { 'anthropic-beta': 'output-128k-2025-02-19' },
     });
 
